@@ -16,6 +16,7 @@
 		E10D7228286D28AF00F35045 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D7227286D28AF00F35045 /* CardView.swift */; };
 		E10D722A286D2BD300F35045 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D7229286D2BD300F35045 /* TrailingIconLabelStyle.swift */; };
 		E10D722D286D300D00F35045 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D722C286D300D00F35045 /* ScrumsView.swift */; };
+		E10D7230286D40C800F35045 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D722F286D40C800F35045 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E10D7227286D28AF00F35045 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		E10D7229286D2BD300F35045 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		E10D722C286D300D00F35045 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		E10D722F286D40C800F35045 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				E10D7214286D1BFC00F35045 /* MeetingView.swift */,
 				E10D7227286D28AF00F35045 /* CardView.swift */,
 				E10D722C286D300D00F35045 /* ScrumsView.swift */,
+				E10D722F286D40C800F35045 /* DetailView.swift */,
 				E10D722B286D2D4300F35045 /* Styles */,
 			);
 			path = Views;
@@ -185,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E10D7226286D281B00F35045 /* DailyScrum.swift in Sources */,
+				E10D7230286D40C800F35045 /* DetailView.swift in Sources */,
 				E10D722A286D2BD300F35045 /* TrailingIconLabelStyle.swift in Sources */,
 				E10D7215286D1BFC00F35045 /* MeetingView.swift in Sources */,
 				E10D722D286D300D00F35045 /* ScrumsView.swift in Sources */,
