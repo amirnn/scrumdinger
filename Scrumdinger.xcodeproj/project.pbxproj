@@ -17,6 +17,7 @@
 		E10D722A286D2BD300F35045 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D7229286D2BD300F35045 /* TrailingIconLabelStyle.swift */; };
 		E10D722D286D300D00F35045 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D722C286D300D00F35045 /* ScrumsView.swift */; };
 		E10D7230286D40C800F35045 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E10D722F286D40C800F35045 /* DetailView.swift */; };
+		E10D7232286D48D100F35045 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E10D7231286D450600F35045 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +32,7 @@
 		E10D7229286D2BD300F35045 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		E10D722C286D300D00F35045 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		E10D722F286D40C800F35045 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
-		E10D7231286D450600F35045 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E10D7231286D450600F35045 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +178,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E10D7232286D48D100F35045 /* README.md in Resources */,
 				E10D721A286D1BFE00F35045 /* Preview Assets.xcassets in Resources */,
 				E10D7217286D1BFE00F35045 /* Assets.xcassets in Resources */,
 			);
